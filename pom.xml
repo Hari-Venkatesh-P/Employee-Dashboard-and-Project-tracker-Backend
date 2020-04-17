@@ -56,7 +56,16 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+			<plugin>
+
+    			<groupId>com.github.jsimone</groupId>
+    				<artifactId>webapp-runner</artifactId>
+    				<version>9.0.27.1</version>
+ 
+
+			</plugin>
 		</plugins>
+		
 	</build>
 
 </project>
